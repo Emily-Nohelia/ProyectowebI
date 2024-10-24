@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WebApiService
 {
-    internal class IProducto
+    internal class Roles
     {
     }
 }

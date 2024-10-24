@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WebApiModells
 {
-    internal class Roles
+    public class Roles
     {
         public int IdRol {  get; set; }
         public string NombreRol { get; set; }

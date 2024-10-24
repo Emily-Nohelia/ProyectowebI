@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("WebApiService")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("WebApiInterface")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21513625edf795e18ba95d689d9c7a1cb0496dcf")]
-[assembly: System.Reflection.AssemblyProductAttribute("WebApiService")]
-[assembly: System.Reflection.AssemblyTitleAttribute("WebApiService")]
+[assembly: System.Reflection.AssemblyProductAttribute("WebApiInterface")]
+[assembly: System.Reflection.AssemblyTitleAttribute("WebApiInterface")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
