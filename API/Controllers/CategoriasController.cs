@@ -14,7 +14,7 @@ namespace WebApi.Api.Controladores
     public  class CategoriasController : ControllerBase
     {
 
-        private readonly CategoriaService _categoriaService;
+        private readonly CategoriaService _categoriaService = new CategoriaService();
 
         // Inyección de dependencias a través del constructor
         //public CategoriasController(CategoriaService categoriaService)
