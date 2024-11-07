@@ -1,0 +1,12 @@
+C:\Users\nohel\source\repos\Web API T\WebApiModells\bin\Debug\net8.0\WebApiModells.deps.json
+C:\Users\nohel\source\repos\Web API T\WebApiModells\bin\Debug\net8.0\WebApiModells.dll
+C:\Users\nohel\source\repos\Web API T\WebApiModells\bin\Debug\net8.0\WebApiModells.pdb
+C:\Users\nohel\source\repos\Web API T\WebApiModells\obj\Debug\net8.0\WebApiModells.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nohel\source\repos\Web API T\WebApiModells\obj\Debug\net8.0\WebApiModells.AssemblyInfoInputs.cache
+C:\Users\nohel\source\repos\Web API T\WebApiModells\obj\Debug\net8.0\WebApiModells.AssemblyInfo.cs
+C:\Users\nohel\source\repos\Web API T\WebApiModells\obj\Debug\net8.0\WebApiModells.csproj.CoreCompileInputs.cache
+C:\Users\nohel\source\repos\Web API T\WebApiModells\obj\Debug\net8.0\WebApiModells.sourcelink.json
+C:\Users\nohel\source\repos\Web API T\WebApiModells\obj\Debug\net8.0\WebApiModells.dll
+C:\Users\nohel\source\repos\Web API T\WebApiModells\obj\Debug\net8.0\refint\WebApiModells.dll
+C:\Users\nohel\source\repos\Web API T\WebApiModells\obj\Debug\net8.0\WebApiModells.pdb
+C:\Users\nohel\source\repos\Web API T\WebApiModells\obj\Debug\net8.0\ref\WebApiModells.dll

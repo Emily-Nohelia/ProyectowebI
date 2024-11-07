@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace WebApiService
 {
-    internal class Producto
+    public  class Producto
     {
+
     }
 }

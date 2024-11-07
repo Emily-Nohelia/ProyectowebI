@@ -3,40 +3,80 @@
   "WorkspaceRootPath": "C:\\Users\\nohel\\source\\repos\\Web API T\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F70CA36-D255-4CA9-9242-97E829AF500F}|WebApiModells\\WebApiModells.csproj|c:\\users\\nohel\\source\\repos\\web api t\\webapimodells\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F70CA36-D255-4CA9-9242-97E829AF500F}|WebApiModells\\WebApiModells.csproj|solutionrelative:webapimodells\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4977E5D8-7CC6-4636-A7EB-79DFF0724B0F}|API\\WebApi.Api.csproj|c:\\users\\nohel\\source\\repos\\web api t\\api\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4977E5D8-7CC6-4636-A7EB-79DFF0724B0F}|API\\WebApi.Api.csproj|solutionrelative:api\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F70CA36-D255-4CA9-9242-97E829AF500F}|WebApiModells\\WebApiModells.csproj|c:\\users\\nohel\\source\\repos\\web api t\\webapimodells\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F70CA36-D255-4CA9-9242-97E829AF500F}|WebApiModells\\WebApiModells.csproj|solutionrelative:webapimodells\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0B89625-D390-4066-B9F7-74279624F5AF}|WebApiImplementaci\u00F3n\\WebApiImplementaci\u00F3n.csproj|C:\\Users\\nohel\\source\\repos\\Web API T\\webapiimplementaci\u00F3n\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B89625-D390-4066-B9F7-74279624F5AF}|WebApiImplementaci\u00F3n\\WebApiImplementaci\u00F3n.csproj|solutionrelative:webapiimplementaci\u00F3n\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B89625-D390-4066-B9F7-74279624F5AF}|WebApiImplementaci\u00F3n\\WebApiImplementaci\u00F3n.csproj|C:\\Users\\nohel\\source\\repos\\Web API T\\webapiimplementaci\u00F3n\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B89625-D390-4066-B9F7-74279624F5AF}|WebApiImplementaci\u00F3n\\WebApiImplementaci\u00F3n.csproj|solutionrelative:webapiimplementaci\u00F3n\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC326E8-38D6-4D31-9B4E-530E7C77566C}|WebApiInterface\\WebApiInterface.csproj|c:\\users\\nohel\\source\\repos\\web api t\\webapiinterface\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CC326E8-38D6-4D31-9B4E-530E7C77566C}|WebApiInterface\\WebApiInterface.csproj|solutionrelative:webapiinterface\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4977E5D8-7CC6-4636-A7EB-79DFF0724B0F}|API\\WebApi.Api.csproj|c:\\users\\nohel\\source\\repos\\web api t\\api\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4977E5D8-7CC6-4636-A7EB-79DFF0724B0F}|API\\WebApi.Api.csproj|solutionrelative:api\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B89625-D390-4066-B9F7-74279624F5AF}|WebApiImplementaci\u00F3n\\WebApiImplementaci\u00F3n.csproj|C:\\Users\\nohel\\source\\repos\\Web API T\\webapiimplementaci\u00F3n\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B89625-D390-4066-B9F7-74279624F5AF}|WebApiImplementaci\u00F3n\\WebApiImplementaci\u00F3n.csproj|solutionrelative:webapiimplementaci\u00F3n\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B89625-D390-4066-B9F7-74279624F5AF}|WebApiImplementaci\u00F3n\\WebApiImplementaci\u00F3n.csproj|C:\\Users\\nohel\\source\\repos\\Web API T\\webapiimplementaci\u00F3n\\rolesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B89625-D390-4066-B9F7-74279624F5AF}|WebApiImplementaci\u00F3n\\WebApiImplementaci\u00F3n.csproj|solutionrelative:webapiimplementaci\u00F3n\\rolesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC326E8-38D6-4D31-9B4E-530E7C77566C}|WebApiInterface\\WebApiInterface.csproj|c:\\users\\nohel\\source\\repos\\web api t\\webapiinterface\\irolesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CC326E8-38D6-4D31-9B4E-530E7C77566C}|WebApiInterface\\WebApiInterface.csproj|solutionrelative:webapiinterface\\irolesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC326E8-38D6-4D31-9B4E-530E7C77566C}|WebApiInterface\\WebApiInterface.csproj|c:\\users\\nohel\\source\\repos\\web api t\\webapiinterface\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CC326E8-38D6-4D31-9B4E-530E7C77566C}|WebApiInterface\\WebApiInterface.csproj|solutionrelative:webapiinterface\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC326E8-38D6-4D31-9B4E-530E7C77566C}|WebApiInterface\\WebApiInterface.csproj|c:\\users\\nohel\\source\\repos\\web api t\\webapiinterface\\icategoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CC326E8-38D6-4D31-9B4E-530E7C77566C}|WebApiInterface\\WebApiInterface.csproj|solutionrelative:webapiinterface\\icategoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4977E5D8-7CC6-4636-A7EB-79DFF0724B0F}|API\\WebApi.Api.csproj|c:\\users\\nohel\\source\\repos\\web api t\\api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4977E5D8-7CC6-4636-A7EB-79DFF0724B0F}|API\\WebApi.Api.csproj|solutionrelative:api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4977E5D8-7CC6-4636-A7EB-79DFF0724B0F}|API\\WebApi.Api.csproj|c:\\users\\nohel\\source\\repos\\web api t\\api\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4977E5D8-7CC6-4636-A7EB-79DFF0724B0F}|API\\WebApi.Api.csproj|solutionrelative:api\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4977E5D8-7CC6-4636-A7EB-79DFF0724B0F}|API\\WebApi.Api.csproj|c:\\users\\nohel\\source\\repos\\web api t\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4977E5D8-7CC6-4636-A7EB-79DFF0724B0F}|API\\WebApi.Api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4977E5D8-7CC6-4636-A7EB-79DFF0724B0F}|API\\WebApi.Api.csproj|c:\\users\\nohel\\source\\repos\\web api t\\api\\webapi.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4977E5D8-7CC6-4636-A7EB-79DFF0724B0F}|API\\WebApi.Api.csproj|solutionrelative:api\\webapi.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4977E5D8-7CC6-4636-A7EB-79DFF0724B0F}|API\\WebApi.Api.csproj|c:\\users\\nohel\\source\\repos\\web api t\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4977E5D8-7CC6-4636-A7EB-79DFF0724B0F}|API\\WebApi.Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6F70CA36-D255-4CA9-9242-97E829AF500F}|WebApiModells\\WebApiModells.csproj|c:\\users\\nohel\\source\\repos\\web api t\\webapimodells\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F70CA36-D255-4CA9-9242-97E829AF500F}|WebApiModells\\WebApiModells.csproj|solutionrelative:webapimodells\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F70CA36-D255-4CA9-9242-97E829AF500F}|WebApiModells\\WebApiModells.csproj|c:\\users\\nohel\\source\\repos\\web api t\\webapimodells\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F70CA36-D255-4CA9-9242-97E829AF500F}|WebApiModells\\WebApiModells.csproj|solutionrelative:webapimodells\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CC326E8-38D6-4D31-9B4E-530E7C77566C}|WebApiInterface\\WebApiInterface.csproj|c:\\users\\nohel\\source\\repos\\web api t\\webapiinterface\\webapiinterface.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5CC326E8-38D6-4D31-9B4E-530E7C77566C}|WebApiInterface\\WebApiInterface.csproj|solutionrelative:webapiinterface\\webapiinterface.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20C7A636-E283-4197-960B-2B30C1841B53}|WepApi.Api\\WepApi.Api.csproj|c:\\users\\nohel\\source\\repos\\web api t\\wepapi.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20C7A636-E283-4197-960B-2B30C1841B53}|WepApi.Api\\WepApi.Api.csproj|solutionrelative:wepapi.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F70CA36-D255-4CA9-9242-97E829AF500F}|WebApiModells\\WebApiModells.csproj|c:\\users\\nohel\\source\\repos\\web api t\\webapimodells\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F70CA36-D255-4CA9-9242-97E829AF500F}|WebApiModells\\WebApiModells.csproj|solutionrelative:webapimodells\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CC326E8-38D6-4D31-9B4E-530E7C77566C}|WebApiInterface\\WebApiInterface.csproj|c:\\users\\nohel\\source\\repos\\web api t\\webapiinterface\\iusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CC326E8-38D6-4D31-9B4E-530E7C77566C}|WebApiInterface\\WebApiInterface.csproj|solutionrelative:webapiinterface\\iusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CC326E8-38D6-4D31-9B4E-530E7C77566C}|WebApiInterface\\WebApiInterface.csproj|c:\\users\\nohel\\source\\repos\\web api t\\webapiinterface\\iroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CC326E8-38D6-4D31-9B4E-530E7C77566C}|WebApiInterface\\WebApiInterface.csproj|solutionrelative:webapiinterface\\iroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CC326E8-38D6-4D31-9B4E-530E7C77566C}|WebApiInterface\\WebApiInterface.csproj|c:\\users\\nohel\\source\\repos\\web api t\\webapiinterface\\icategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CC326E8-38D6-4D31-9B4E-530E7C77566C}|WebApiInterface\\WebApiInterface.csproj|solutionrelative:webapiinterface\\icategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CC326E8-38D6-4D31-9B4E-530E7C77566C}|WebApiInterface\\WebApiInterface.csproj|c:\\users\\nohel\\source\\repos\\web api t\\webapiinterface\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CC326E8-38D6-4D31-9B4E-530E7C77566C}|WebApiInterface\\WebApiInterface.csproj|solutionrelative:webapiinterface\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F70CA36-D255-4CA9-9242-97E829AF500F}|WebApiModells\\WebApiModells.csproj|c:\\users\\nohel\\source\\repos\\web api t\\webapimodells\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F70CA36-D255-4CA9-9242-97E829AF500F}|WebApiModells\\WebApiModells.csproj|solutionrelative:webapimodells\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,59 +86,140 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\nohel\\source\\repos\\Web API T\\WepApi.Api\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "WepApi.Api\\Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\nohel\\source\\repos\\Web API T\\WepApi.Api\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "WepApi.Api\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiInterface\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "WebApiInterface\\IUsuarioService.cs",
+              "ToolTip": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiInterface\\IUsuarioService.cs",
+              "RelativeToolTip": "WebApiInterface\\IUsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T21:57:19.85Z",
+              "WhenOpened": "2024-11-07T01:23:26.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\nohel\\source\\repos\\Web API T\\API\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\nohel\\source\\repos\\Web API T\\API\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "API\\Controllers\\CategoriasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T21:40:29.529Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriaService.cs",
+              "DocumentMoniker": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiImplementaci\u00F3n\\CategoriaService.cs",
+              "RelativeDocumentMoniker": "WebApiImplementaci\u00F3n\\CategoriaService.cs",
+              "ToolTip": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiImplementaci\u00F3n\\CategoriaService.cs",
+              "RelativeToolTip": "WebApiImplementaci\u00F3n\\CategoriaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T21:50:48.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiImplementaci\u00F3n\\ProductoService.cs",
+              "RelativeDocumentMoniker": "WebApiImplementaci\u00F3n\\ProductoService.cs",
+              "ToolTip": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiImplementaci\u00F3n\\ProductoService.cs",
+              "RelativeToolTip": "WebApiImplementaci\u00F3n\\ProductoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T21:21:57.22Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "IRoles.cs",
-              "DocumentMoniker": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiInterface\\IRoles.cs",
-              "RelativeDocumentMoniker": "WebApiInterface\\IRoles.cs",
-              "ToolTip": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiInterface\\IRoles.cs",
-              "RelativeToolTip": "WebApiInterface\\IRoles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Title": "RolesService.cs",
+              "DocumentMoniker": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiImplementaci\u00F3n\\RolesService.cs",
+              "RelativeDocumentMoniker": "WebApiImplementaci\u00F3n\\RolesService.cs",
+              "ToolTip": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiImplementaci\u00F3n\\RolesService.cs",
+              "RelativeToolTip": "WebApiImplementaci\u00F3n\\RolesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T21:43:08.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T01:21:22.083Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "IUsuario.cs",
-              "DocumentMoniker": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiInterface\\IUsuario.cs",
-              "RelativeDocumentMoniker": "WebApiInterface\\IUsuario.cs",
-              "ToolTip": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiInterface\\IUsuario.cs",
-              "RelativeToolTip": "WebApiInterface\\IUsuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiImplementaci\u00F3n\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "WebApiImplementaci\u00F3n\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiImplementaci\u00F3n\\UsuarioService.cs",
+              "RelativeToolTip": "WebApiImplementaci\u00F3n\\UsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T21:42:46.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T01:20:29.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\nohel\\source\\repos\\Web API T\\API\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\nohel\\source\\repos\\Web API T\\API\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "API\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T21:39:01.644Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ICategoria.cs",
-              "DocumentMoniker": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiInterface\\ICategoria.cs",
-              "RelativeDocumentMoniker": "WebApiInterface\\ICategoria.cs",
-              "ToolTip": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiInterface\\ICategoria.cs",
-              "RelativeToolTip": "WebApiInterface\\ICategoria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Title": "IRolesService.cs",
+              "DocumentMoniker": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiInterface\\IRolesService.cs",
+              "RelativeDocumentMoniker": "WebApiInterface\\IRolesService.cs",
+              "ToolTip": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiInterface\\IRolesService.cs",
+              "RelativeToolTip": "WebApiInterface\\IRolesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T21:41:34.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T01:22:54.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\nohel\\source\\repos\\Web API T\\API\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\nohel\\source\\repos\\Web API T\\API\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "API\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T21:49:59.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\nohel\\source\\repos\\Web API T\\API\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\RolesController.cs",
+              "ToolTip": "C:\\Users\\nohel\\source\\repos\\Web API T\\API\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "API\\Controllers\\RolesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T21:49:39.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICategoriaService.cs",
+              "DocumentMoniker": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiInterface\\ICategoriaService.cs",
+              "RelativeDocumentMoniker": "WebApiInterface\\ICategoriaService.cs",
+              "ToolTip": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiInterface\\ICategoriaService.cs",
+              "RelativeToolTip": "WebApiInterface\\ICategoriaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T21:47:45.395Z"
             },
             {
               "$type": "Document",
@@ -108,53 +229,61 @@
               "RelativeDocumentMoniker": "WebApiInterface\\IProductoService.cs",
               "ToolTip": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiInterface\\IProductoService.cs",
               "RelativeToolTip": "WebApiInterface\\IProductoService.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T21:40:59.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T21:31:35.571Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Roles.cs",
-              "DocumentMoniker": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiModells\\Roles.cs",
-              "RelativeDocumentMoniker": "WebApiModells\\Roles.cs",
-              "ToolTip": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiModells\\Roles.cs",
-              "RelativeToolTip": "WebApiModells\\Roles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T19:56:05.322Z",
-              "EditorCaption": ""
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nohel\\source\\repos\\Web API T\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\nohel\\source\\repos\\Web API T\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-06T21:54:39.703Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiModells\\Categoria.cs",
-              "RelativeDocumentMoniker": "WebApiModells\\Categoria.cs",
-              "ToolTip": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiModells\\Categoria.cs",
-              "RelativeToolTip": "WebApiModells\\Categoria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T13:52:58.318Z",
-              "EditorCaption": ""
+              "DocumentIndex": 13,
+              "Title": "WebApi.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\nohel\\source\\repos\\Web API T\\API\\WebApi.Api.csproj",
+              "RelativeDocumentMoniker": "API\\WebApi.Api.csproj",
+              "ToolTip": "C:\\Users\\nohel\\source\\repos\\Web API T\\API\\WebApi.Api.csproj",
+              "RelativeToolTip": "API\\WebApi.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-06T21:37:45.953Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiModells\\Usuario.cs",
-              "RelativeDocumentMoniker": "WebApiModells\\Usuario.cs",
-              "ToolTip": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiModells\\Usuario.cs",
-              "RelativeToolTip": "WebApiModells\\Usuario.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nohel\\source\\repos\\Web API T\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\nohel\\source\\repos\\Web API T\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T13:53:13.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T21:37:34.045Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 16,
+              "Title": "WebApiInterface.csproj",
+              "DocumentMoniker": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiInterface\\WebApiInterface.csproj",
+              "RelativeDocumentMoniker": "WebApiInterface\\WebApiInterface.csproj",
+              "ToolTip": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiInterface\\WebApiInterface.csproj",
+              "RelativeToolTip": "WebApiInterface\\WebApiInterface.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-06T21:20:59.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiModells\\Producto.cs",
               "RelativeDocumentMoniker": "WebApiModells\\Producto.cs",
@@ -162,8 +291,31 @@
               "RelativeToolTip": "WebApiModells\\Producto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T21:20:50.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T21:20:50.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiModells\\Roles.cs",
+              "RelativeDocumentMoniker": "WebApiModells\\Roles.cs",
+              "ToolTip": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiModells\\Roles.cs",
+              "RelativeToolTip": "WebApiModells\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T19:56:05.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiModells\\Usuario.cs",
+              "RelativeDocumentMoniker": "WebApiModells\\Usuario.cs",
+              "ToolTip": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiModells\\Usuario.cs",
+              "RelativeToolTip": "WebApiModells\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:53:13.749Z"
             }
           ]
         }

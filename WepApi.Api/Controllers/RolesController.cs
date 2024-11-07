@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WepApi.Api.Controllers
 {
-    internal class RolesController
+    public class RolesController
     {
     }
 }

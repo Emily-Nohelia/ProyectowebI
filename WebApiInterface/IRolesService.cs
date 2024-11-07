@@ -7,7 +7,7 @@ using WebApiModells;
 
 namespace WebApiInterface
 {
-    public interface IRoles
+    public interface IRolesService
     {
         public  List<Roles> GetAll();
         public Roles GetById(int Id);

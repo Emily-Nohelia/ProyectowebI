@@ -41,13 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CategoriaService.cs" />
+    <Compile Include="ProductoService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\WebApiService\WebApiService.csproj">
-      <Project>{36e2ca6c-8063-463f-9ed5-3a4779ad5d7b}</Project>
-      <Name>WebApiService</Name>
-    </ProjectReference>
+    <Compile Include="RolesService.cs" />
+    <Compile Include="UsuarioService.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

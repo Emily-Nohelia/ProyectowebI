@@ -7,7 +7,7 @@ using WebApiModells;
 
 namespace WebApiInterface
 {
-    public interface ICategoria
+    public interface ICategoriaService
     {
         public List<Categoria> GetAll();
         public Categoria GetById(int ID);

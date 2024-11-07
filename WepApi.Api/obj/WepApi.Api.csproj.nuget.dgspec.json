@@ -19,14 +19,14 @@
         "net472": {}
       }
     },
-    "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiModells\\WebApiModells.csproj": {
+    "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiInterface\\WebApiInterface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiModells\\WebApiModells.csproj",
-        "projectName": "WebApiModells",
-        "projectPath": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiModells\\WebApiModells.csproj",
+        "projectUniqueName": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiInterface\\WebApiInterface.csproj",
+        "projectName": "WebApiInterface",
+        "projectPath": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiInterface\\WebApiInterface.csproj",
         "packagesPath": "C:\\Users\\nohel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiModells\\obj\\",
+        "outputPath": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiInterface\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nohel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -43,7 +43,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiModells\\WebApiModells.csproj": {
+                "projectPath": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiModells\\WebApiModells.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -80,14 +84,14 @@
         }
       }
     },
-    "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiService\\WebApiService.csproj": {
+    "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiModells\\WebApiModells.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiService\\WebApiService.csproj",
-        "projectName": "WebApiService",
-        "projectPath": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiService\\WebApiService.csproj",
+        "projectUniqueName": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiModells\\WebApiModells.csproj",
+        "projectName": "WebApiModells",
+        "projectPath": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiModells\\WebApiModells.csproj",
         "packagesPath": "C:\\Users\\nohel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiService\\obj\\",
+        "outputPath": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiModells\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nohel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -104,11 +108,7 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {
-              "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiModells\\WebApiModells.csproj": {
-                "projectPath": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiModells\\WebApiModells.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -173,8 +173,8 @@
               "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiImplementación\\WebApiImplementación.csproj": {
                 "projectPath": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiImplementación\\WebApiImplementación.csproj"
               },
-              "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiService\\WebApiService.csproj": {
-                "projectPath": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiService\\WebApiService.csproj"
+              "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiInterface\\WebApiInterface.csproj": {
+                "projectPath": "C:\\Users\\nohel\\source\\repos\\Web API T\\WebApiInterface\\WebApiInterface.csproj"
               }
             }
           }
@@ -193,6 +193,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.9.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -205,6 +211,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

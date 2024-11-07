@@ -7,7 +7,7 @@ using WebApiModells;
 
 namespace WebApiInterface
 {
-    public interface IUsuario
+    public interface IUsuarioService
     {
         public List<Usuario> GetAll();
         public Usuario GetById(int ID);

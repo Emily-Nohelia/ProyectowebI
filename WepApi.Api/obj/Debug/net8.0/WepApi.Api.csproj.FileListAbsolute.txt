@@ -1,0 +1,6 @@
+C:\Users\nohel\source\repos\Web API T\WepApi.Api\obj\Debug\net8.0\WepApi.Api.csproj.AssemblyReference.cache
+C:\Users\nohel\source\repos\Web API T\WepApi.Api\obj\Debug\net8.0\WepApi.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nohel\source\repos\Web API T\WepApi.Api\obj\Debug\net8.0\WepApi.Api.AssemblyInfoInputs.cache
+C:\Users\nohel\source\repos\Web API T\WepApi.Api\obj\Debug\net8.0\WepApi.Api.AssemblyInfo.cs
+C:\Users\nohel\source\repos\Web API T\WepApi.Api\obj\Debug\net8.0\WepApi.Api.csproj.CoreCompileInputs.cache
+C:\Users\nohel\source\repos\Web API T\WepApi.Api\obj\Debug\net8.0\WepApi.Api.sourcelink.json

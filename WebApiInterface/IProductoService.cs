@@ -13,8 +13,7 @@ namespace WebApiInterface
         public Producto GetById(int ID);
         public Producto Update(Producto producto);
         public void Add(Producto producto);
-        public void Delete(int ID);
-
+        public void Delete(int id);
 
     }
 }
